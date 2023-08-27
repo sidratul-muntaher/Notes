@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730624450160",
+    "project_id": "notes-1ad34",
+    "storage_bucket": "notes-1ad34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730624450160:android:e7818200320055007c5eb5",
+        "android_client_info": {
+          "package_name": "com.tibrow.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730624450160-nn4jad866ngijkv8kmcr0jj9hn6de53g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2Kt4DT1WO8Zi-zo-USZFRMjfNDxHbhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730624450160-nn4jad866ngijkv8kmcr0jj9hn6de53g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
